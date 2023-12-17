@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="forest.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Pangolin&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>«В лесу мы возвращаемся к разуму и вере»</h1>
+    </header>
+      
+      <section>
+        <div>
+          <div id="clock">
+            <form>
+              <input id="min" type="number" step="1" min="0" max="59" value="05"></input>
+              <span>:</span>
+              <input id="sec" type="number" step="1" min="0" max="59" value="00"></input>
+            </form>
+            <div id="controls">
+              <button id="start">НАЧАТЬ</button>
+              <button id="reset">СБРОС</button>
+              <button id="home">НАЗАД</button>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+      <audio id="player" loop>
+        <source
+          src="forestmuzic.mp3"
+          type="audio/mp3"
+        />
+      </audio>
+      <video autoplay loop muted defaultMuted playsinline id="myVideo">
+        <source
+          src="forest.mp4"
+          type="video/mp4"
+        />
+      </video>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="forest.js"></script>
+</body>
+</html>
