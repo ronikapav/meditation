@@ -1,6 +1,6 @@
 <h1 align="center">Медитация</h1>
 <div align="center">
-<a href="https://app-to-do-list-app.netlify.app/" target="_blank"><img align="center" src="https://i.ibb.co/WsTjqkH/2023-12-17-223844.png" height="500"/></a> 
+<a href="https://natural-relax-app.glitch.me/" target="_blank"><img align="center" src="https://i.ibb.co/WsTjqkH/2023-12-17-223844.png" height="500"/></a> 
 </div>
 <h3 align="center">Это простое веб-приложение для проведения медитационных сеансов. Пользователям предлагается в течении пяти минут насладиться приятной музыкой в сочетании с тематическим видеорядом.</h3>
 <h2>Установка</h2>
