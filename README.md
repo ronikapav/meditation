@@ -26,4 +26,4 @@
 <li>JavaScript</li>
 </ul>
 <h2>Автор</h2>
-<a href="https://t.me/ronikapav">Написать автору</a>
+<p>Приложение "Предсказание на сегодня" создано <a href="https://t.me/ronikapav">RoniKa</a> в рамках учебного проекта.</p>
