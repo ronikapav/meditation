@@ -1,17 +1,14 @@
 <h1 align="center">Медитация</h1>
 <div align="center">
-<a href="https://natural-relax-app.glitch.me/" target="_blank"><img align="center" src="https://i.ibb.co/WsTjqkH/2023-12-17-223844.png" height="500"/></a> 
+<a href="https://natural-relax-app.glitch.me/" target="_blank"><img align="center" src="https://ltdfoto.ru/images/2023/12/18/SNIMOK-EKRANA-2023-12-17-223844.png" height="500"/></a> 
 </div>
 <h3 align="center">Это простое веб-приложение для проведения медитационных сеансов. Пользователям предлагается в течении пяти минут насладиться приятной музыкой в сочетании с тематическим видеорядом.</h3>
 <h2>Установка</h2>
-<p>1. Склонируйте репозиторий на свой компьютер:</p>
+<p>1. Клонируйте репозиторий на свой компьютер:</p>
 <pre><code>git clone https://github.com/ronikapav/meditation.git</code></pre>
-<p>2. Перейдите в папку с проектом:</p>
+<p>2. Перейдите в папку проекта:</p>
 <pre><code>cd meditation</code></pre>
-<p>3. Установите необходимые зависимости:</p>
-<pre><code>npm install</code></pre>
-<p>4. Запустите проект:</p>
-<pre><code>npm start</code></pre>
+<p>3. Откройте файл index.html в вашем браузере.</p>
 <h2>Инструкция по использованию</h2>
 <p>1. Выберите стихию под которую хотите провести медитацию.</p>
 <p>2. Нажмите кнопку "Начать", чтобы в течении пяти минут наслаждаться процессом.</p>
